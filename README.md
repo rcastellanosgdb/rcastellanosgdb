@@ -23,8 +23,8 @@ My name is Rodrigo Castellanos and I'm a scientific researcher. I'm from Spain, 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rcastellanosgdb/rcastellanosgdb">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rcastellanosgdb&show_icons=true&line_height=33&count_private=true&title_color=000000&text_color=2bbc8a&include_all_commits=true&icon_color=2bbc8a&bg_color=ffffff" alt="rcastellanosgdb's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rcastellanosgdb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="rcastellanosgdb's GitHub Stats" />
 </a>
 <a href="https://github.com/rcastellanosgdb/rcastellanosgdb">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcastellanosgdb&title_color=000000&text_color=2bbc8a&icon_color=2bbc8a&bg_color=ffffff&langs_count=5&line_height=33" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcastellanosgdb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
