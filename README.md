@@ -3,12 +3,11 @@
 [![Linkedin: rcastellanosgdb](https://img.shields.io/badge/-GoogleScholar-blue?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.es/citations?user=MY0hZhwAAAAJ&hl=es)](https://scholar.google.es/citations?user=MY0hZhwAAAAJ&hl=es)
 [![Research Gate: rcastellanosgdb](https://img.shields.io/badge/-ResearchGate-blue?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Rodrigo-Castellanos/publications)](https://www.researchgate.net/profile/Rodrigo-Castellanos/publications)
 
-My name is Rodrigo Castellanos and I'm a scientific researcher. I'm from Spain, living in Madrid and currently working at the Spanish Institute of Aerospace Technology (INTA). I also collaborate with the Aerospace Engineering Research Group at Universidad Carlos III de Madrid and teach in the BSc of Aerospace engineering at Universidad de Castilla-La Mancha (UCLM)
+My name is Rodrigo Castellanos and I'm a scientific researcher. I'm from Spain, living in Madrid, and currently working at Universidad Carlos III de Madrid as Assistant Prof. I also collaborate with the Spanish Institute of Aerospace Technology (INTA). My main research areas are: fluid mechanics, surrogate modelling, machine learning, experimental methods...
 
-- 🌱 I’m currently learning regression techniques, reinforcement learning, evolutionary algorithms and data-processing techniques.
+- 🌱 I’m currently learning regression techniques, reinforcement learning, evolutionary algorithms, and data-processing techniques.
 - 📫 How to reach me: r.castellanos.gdb@gmail.com
 - 💬 Ask me about flow control, experimental aerodynamics, turbulence, and machine learning
-- 😄 Pronouns: he/him
 - Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=rcastellanosgdb.visitor-badge)
 
 ## 🔧 Technologies & Tools
